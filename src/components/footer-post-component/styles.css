@@ -1,0 +1,41 @@
+footer {
+  width: 100%;
+}
+
+.iterations {
+  width: 100%;
+  height: 43px;
+  margin-top: 4px;
+  align-items: center;
+  color: #5b646c;
+}
+
+.iterations,
+.iterations div {
+  display: flex;
+}
+
+.iterations div {
+  width: 78px;
+}
+
+.icons {
+  font-size: 1.25em;
+  margin-right: 5px;
+}
+
+.bookmarks {
+  height: 40px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.count {
+  margin-right: 5px;
+  color: black;
+}
+
+.icon-heart {
+  color: #e13e1d;
+}

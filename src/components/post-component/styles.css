@@ -1,0 +1,47 @@
+.container-post {
+  border-radius: 22px;
+  padding: 16px;
+  width: 70%;
+  background-color: #ffffff;
+}
+
+.post-comment {
+  width: 100%;
+}
+
+.post-data {
+  display: flex;
+  align-items: center;
+  width: 100%;
+  font-weight: 500;
+  height: 45px;
+  color: #a2a3a1;
+  font-weight: 400;
+}
+
+.post-data div {
+  display: flex;
+  align-items: center;
+}
+
+.dot {
+  height: 3px;
+  width: 3px;
+  margin: 5.5px;
+  border-radius: 100%;
+  background-color: #8b8c8a;
+}
+
+.line {
+  height: 1.3px;
+  width: 100%;
+  background-color: #f1f1f1;
+}
+
+.comment {
+  margin-top: 15px;
+  height: 35px;
+  display: flex;
+  font-weight: 500;
+  align-items: center;
+}
